@@ -2,7 +2,7 @@ from telegram.ext import *
 
 
 print('Starting up bot...')
-host_name = "ws.tond-vpn.works"
+host_name = "ln.tond-vpn.works"
 
 # Lets us use the /start command
 def start_command(update, context):
