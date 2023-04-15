@@ -74,7 +74,7 @@ def error(update, context):
 
 # Run the program
 if __name__ == '__main__':
-    updater = Updater("6028445924:AAG7oHvC4e2Z8LOJP5u7xdqZAaMAJVCeKWA", use_context=True)
+    updater = Updater("YOUR TOKEN", use_context=True)
     dp = updater.dispatcher
 
     # Commands
